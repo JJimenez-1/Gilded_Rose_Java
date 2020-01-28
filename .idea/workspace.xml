@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ddd2a55-71c2-413f-a4f1-07b9d19bd3c6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/elsmancs/gildedrose/domain/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/elsmancs/gildedrose/domain/NormalItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/elsmancs/gildedrose/domain/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/elsmancs/gildedrose/inheritancetests/InheritanceTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="0ddd2a55-71c2-413f-a4f1-07b9d19bd3c6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,6 +63,7 @@
         <option value="Jose" />
       </list>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="517" />
@@ -165,6 +161,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15527344" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -236,6 +233,14 @@
       <option name="presentableId" value="Default" />
       <updated>1580227837803</updated>
     </task>
+    <task id="LOCAL-00001" summary="Añadir nuevos ficheros y carpetas">
+      <created>1580231926878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580231926878</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
